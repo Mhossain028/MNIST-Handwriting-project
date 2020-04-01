@@ -1,0 +1,6 @@
+This the solution of MNIST Handwriting Identification. 
+
+There have 70,000 numbers and this solution analysis this data and give you your expected answer.
+If want to know about this data, then it could be help you.
+
+Thank You.
